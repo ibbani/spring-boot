@@ -12,7 +12,7 @@
 
 ## 3. How to invoke the APIs?
 1. Install Postman.
-2. Import Spring-Envers.postman_collection.json file present under resources folder in the project.
+2. Import Spring-Envers.postman_collection.json file present in the root folder of the project.
 
 ## 4. How to validate the audited data in database?
 1. Run the Spring boot application
